@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Job Titles</name>
+   <tag></tag>
+   <elementGuidId>f421c21d-df5e-430a-8274-cc345596ddcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_admin_viewJobTitleList</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_admin_viewJobTitleList']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85f939d0-ff89-4f98-89bf-338cccdb3a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/admin/viewJobTitleList</value>
+      <webElementGuid>ff0c31fb-a765-47f0-98a9-d409fcd9c747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_admin_viewJobTitleList</value>
+      <webElementGuid>ebccb577-daae-4470-b6e6-cb8840e3a0bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job Titles</value>
+      <webElementGuid>9475ddc2-0e13-44ae-9796-c8c939c177e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_admin_viewJobTitleList&quot;)</value>
+      <webElementGuid>307e870e-f9ac-4f67-bff1-50370f18d50b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_admin_viewJobTitleList']</value>
+      <webElementGuid>155b9332-a6cb-4228-b5ab-4afbb68107e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li/ul/li[2]/ul/li/a</value>
+      <webElementGuid>ae3692ac-a716-493d-ae17-06ac4eeff666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Job Titles')]</value>
+      <webElementGuid>286b6922-a968-4d7a-950c-bdff5b0af0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[2]</value>
+      <webElementGuid>e1399f9f-74d5-4d9b-aa67-ba92d976a062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::a[4]</value>
+      <webElementGuid>1128ea46-5ac5-4aa5-b977-1de572b585b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay Grades'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ea33dc9-3ea6-4547-85d6-b228818ff862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Status'])[1]/preceding::a[2]</value>
+      <webElementGuid>d7cdf66f-6698-4740-b0b3-ddfa772a0ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Job Titles']/parent::*</value>
+      <webElementGuid>633cc29f-6c9a-4474-a621-3b21cda4fa29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/admin/viewJobTitleList')]</value>
+      <webElementGuid>f0404437-a76b-4f07-82b9-adcc139d5902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/ul/li/a</value>
+      <webElementGuid>1d7af484-66e6-45c5-a111-2c93d2d2e292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/admin/viewJobTitleList' and @id = 'menu_admin_viewJobTitleList' and (text() = 'Job Titles' or . = 'Job Titles')]</value>
+      <webElementGuid>3eaf2b58-bbda-4d1c-bf5b-c2f34e88aff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

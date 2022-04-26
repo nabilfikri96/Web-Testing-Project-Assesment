@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Employment Status</name>
+   <tag></tag>
+   <elementGuidId>5005ade9-36ca-4520-82af-0f392f6bd212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_admin_employmentStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_admin_employmentStatus']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7f43f05f-c0f7-4710-b82d-41f393bc558d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/admin/employmentStatus</value>
+      <webElementGuid>99cd2ea5-b888-4027-9739-8e2f2a0f8742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_admin_employmentStatus</value>
+      <webElementGuid>62052fc1-3784-44d1-843a-e9119329c00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employment Status</value>
+      <webElementGuid>03118d0c-1a3c-4792-b6f8-3245edc30d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_admin_employmentStatus&quot;)</value>
+      <webElementGuid>ed97734a-573a-49ac-b80b-a08ea52903c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_admin_employmentStatus']</value>
+      <webElementGuid>f954f7b4-10cd-45a2-ab05-b49dbf4e51ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>a2cb9133-c33a-473b-bb0f-544a547d12e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Employment Status')]</value>
+      <webElementGuid>7d2da550-7e4b-458d-bc40-fdd1dd70f444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay Grades'])[1]/following::a[1]</value>
+      <webElementGuid>d3051448-6287-4f9e-be47-bb6b51b9e0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Titles'])[1]/following::a[2]</value>
+      <webElementGuid>688e73a6-ac94-4463-bf04-e134ed5eb70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Categories'])[1]/preceding::a[1]</value>
+      <webElementGuid>27b6e95a-b16b-46cb-a6d9-0071196fb846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Shifts'])[1]/preceding::a[2]</value>
+      <webElementGuid>2765aabf-f656-4955-9cad-d2835b6fad6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employment Status']/parent::*</value>
+      <webElementGuid>f23e0a9c-5150-4aa5-ad94-955a772492a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/admin/employmentStatus')]</value>
+      <webElementGuid>2dcb75be-d47c-4137-bd94-e1a874bd7240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>78ffbc78-27aa-4b5b-9202-70b5bfc8d88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/admin/employmentStatus' and @id = 'menu_admin_employmentStatus' and (text() = 'Employment Status' or . = 'Employment Status')]</value>
+      <webElementGuid>8fca12da-aa3a-4bee-ac3b-0366b31edda8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

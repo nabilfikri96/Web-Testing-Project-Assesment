@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pay Grades</name>
+   <tag></tag>
+   <elementGuidId>5c38b6fe-73de-4ade-9fce-98d96655b5e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_admin_viewPayGrades</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_admin_viewPayGrades']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4adccf20-9faa-4460-883f-b2bcf0559838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/admin/viewPayGrades</value>
+      <webElementGuid>f9a27258-130b-47c3-82c0-c1cd9347fa0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_admin_viewPayGrades</value>
+      <webElementGuid>b5db208a-e1c8-40dd-a2e3-aeb2b05ea168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Grades</value>
+      <webElementGuid>de00c110-3dcc-4e65-8e4e-d776085ae4f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_admin_viewPayGrades&quot;)</value>
+      <webElementGuid>5273cfa6-5096-4f20-bcc1-f89d339222b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_admin_viewPayGrades']</value>
+      <webElementGuid>a883edc3-4921-4252-b9a7-aa68e39ab0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>7fd8b268-91df-46b1-85a7-76d24e1f87ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pay Grades')]</value>
+      <webElementGuid>111763ec-9fe7-4c61-bea6-5f21c9b389a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Titles'])[1]/following::a[1]</value>
+      <webElementGuid>323b6fa4-76dc-46e5-b424-06a8ba69e0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[3]</value>
+      <webElementGuid>c4ae42a4-4866-4cd7-8239-72da37761d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>61211838-faf2-4e76-bec3-5862c00a019f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Categories'])[1]/preceding::a[2]</value>
+      <webElementGuid>9db96c97-aa99-46cd-9259-7b9e64d109da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay Grades']/parent::*</value>
+      <webElementGuid>cfdea196-80fe-45db-8c5c-f794e60599c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/admin/viewPayGrades')]</value>
+      <webElementGuid>85f4ef14-c11e-42b5-99ec-82121332c5ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>2f2b9729-6e72-4314-807c-d03a2bbc3952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/admin/viewPayGrades' and @id = 'menu_admin_viewPayGrades' and (text() = 'Pay Grades' or . = 'Pay Grades')]</value>
+      <webElementGuid>d5768e4a-b8ed-462a-bcfe-e75dc714153f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
